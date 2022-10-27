@@ -1,0 +1,22 @@
+h1 {
+    font-size: 100px;
+    font-style: italic;
+    font-weight: bold;
+    color: orangered;
+}
+
+ul {
+    color: brown, visited;
+}
+
+ol {
+    color: green, nth-child;
+}
+
+:hover {
+    color: blueviolet;
+}
+
+:visited {
+    color: gold;
+}
