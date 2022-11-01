@@ -1,8 +1,13 @@
-body {
-    5000px
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #e2edff;
 }
 
-.jumbotron {
-    padding transition: display: 3rem;
+#about {
+    background-color: #fff;
+}
+
+#projects {
     background-color: #e2edff;
+
 }
